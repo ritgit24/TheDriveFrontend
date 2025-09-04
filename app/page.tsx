@@ -23,7 +23,7 @@ const inter = Inter({
 });
 
 // Backend URLs
-const BACKEND_URL = "https://fastapi-service-517338245513.us-central1.run.app";
+const BACKEND_URL = "https://my-fastapi-app-45276376973.us-central1.run.app/";
 const AI_BACKEND_URL = "http://127.0.0.1:8000";
 
 // Interfaces
